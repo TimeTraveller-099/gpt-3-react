@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gpt-3-react/static/css/main.cbb5c756.css",
+    "main.js": "/gpt-3-react/static/js/main.f063cfed.js",
+    "static/media/ai.png": "/gpt-3-react/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/people.png": "/gpt-3-react/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/gpt-3-react/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/gpt-3-react/index.html",
+    "main.cbb5c756.css.map": "/gpt-3-react/static/css/main.cbb5c756.css.map",
+    "main.f063cfed.js.map": "/gpt-3-react/static/js/main.f063cfed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbb5c756.css",
+    "static/js/main.f063cfed.js"
+  ]
+}

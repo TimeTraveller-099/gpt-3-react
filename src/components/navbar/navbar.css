@@ -36,7 +36,7 @@
 .gpt3__navbar-links_container p,
 .gpt3__navbar-link_sign p,
 .gpt3__navbar-menu_container p {
-    color: #fff;
+    color: #d3d3d3;
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 18px;
@@ -125,4 +125,17 @@
     .gpt3__navbar-menu_container-links-sign {
         display: block;
     }
+}
+
+
+/*------ HOVER ------*/
+.gpt3__navbar-links_container p:hover,
+.gpt3__navbar-link_sign p:hover,
+.gpt3__navbar-menu_container p:hover {
+    color: #fff;
+}
+
+.gpt3__navbar-link_sign button:hover,
+.gpt3__navbar-menu_container button:hover {
+    background-color: #ff4820;
 }
